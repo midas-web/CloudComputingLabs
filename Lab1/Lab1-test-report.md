@@ -23,8 +23,6 @@
 
 ### 1.5 实验环境
 
-&emsp;&emsp;实验中共有2个不同的实验环境：**ENV1**和**ENV2**。
-
 &emsp;&emsp;**ENV1:** linux内核版本为4.15.0-88-generic；16GB内存；CPU型号为Intel(R) Xeon(R) CPU E5-2635 0 @ 2.00GHz，共有2个物理CPU；每个物理CPU有8个物理核心，共有16个物理核心；不使用超线程技术。
 
 &emsp;&emsp;**ENV2:** linux内核版本为4.15.0-88-generic；8GB内存；CPU型号为Intel(R) Core(TM) i7-6350HQ CPU @ 2.35GHz，共1个物理CPU；每个物理CPU有4个物理核心，共有4个物理核心；使用超线程技术，1个物理核心模拟出2个逻辑核心，共有8个逻辑核心。
